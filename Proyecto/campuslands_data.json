@@ -1,0 +1,103 @@
+{
+    "campers": [
+        {
+            "numero_identificacion": "1111",
+            "nombres": "dany",
+            "apellidos": "bernal",
+            "direccion": "ca\u00f1averal",
+            "acudiente": "sandra",
+            "telefonos_contacto": {
+                "celular": "321321",
+                "fijo": "2111"
+            },
+            "estado": "En proceso de ingreso",
+            "riesgo": "bajo",
+            "nota_teoria": 98.0,
+            "nota_practica": 78.0,
+            "nota_trabajos": 90.0,
+            "ruta_entrenamiento": "Java",
+            "fecha_inicio": "02 marzo 2024",
+            "fecha_finalizacion": "29 marzo 2024",
+            "salon_entrenamiento": "apolo"
+        },
+        {
+            "numero_identificacion": "11",
+            "nombres": "dany",
+            "apellidos": "bernal",
+            "direccion": "ca\u00f1averal",
+            "acudiente": "sandra",
+            "telefonos_contacto": {
+                "celular": "321321",
+                "fijo": "1111112"
+            },
+            "estado": "En proceso de ingreso",
+            "riesgo": "bajo",
+            "nota_teoria": 0,
+            "nota_practica": 0,
+            "nota_trabajos": 0
+        },
+        {
+            "numero_identificacion": "22222",
+            "nombres": "xiomara ",
+            "apellidos": "carvajal",
+            "direccion": "floridablanca",
+            "acudiente": "milena",
+            "telefonos_contacto": {
+                "celular": "311311",
+                "fijo": "22221"
+            },
+            "estado": "En proceso de ingreso",
+            "riesgo": "bajo",
+            "nota_teoria": 0,
+            "nota_practica": 0,
+            "nota_trabajos": 0
+        },
+        {
+            "numero_identificacion": "44",
+            "nombres": "laura",
+            "apellidos": "carvajal",
+            "direccion": "lagos2",
+            "acudiente": "teresa",
+            "telefonos_contacto": {
+                "celular": "3222222",
+                "fijo": ""
+            },
+            "estado": "En proceso de ingreso",
+            "riesgo": "bajo",
+            "nota_teoria": 98.0,
+            "nota_practica": 43.0,
+            "nota_trabajos": 90.0,
+            "ruta_entrenamiento": "java",
+            "fecha_inicio": "01 febreo 2024",
+            "fecha_finalizacion": "04 marzo 2024",
+            "salon_entrenamiento": "artemis"
+        }
+    ],
+    "rutas_entrenamiento": {
+        "NodeJS": {
+            "modulos": [
+                "Fundamentos de programaci\u00f3n",
+                "Programaci\u00f3n Web",
+                "Backend"
+            ],
+            "capacidad_maxima": 33
+        },
+        "Java": {
+            "modulos": [
+                "Fundamentos de programaci\u00f3n",
+                "Programaci\u00f3n formal",
+                "Backend"
+            ],
+            "capacidad_maxima": 33
+        },
+        "NetCore": {
+            "modulos": [
+                "Fundamentos de programaci\u00f3n",
+                "Programaci\u00f3n formal",
+                "Backend"
+            ],
+            "capacidad_maxima": 33
+        }
+    },
+    "trainers": []
+}
